@@ -59,3 +59,4 @@ systemctl start umbrel
 
 echo "✅ Instalação completa! Acesse via http://<IP-DA-MAQUINA>"
 
+Line endings: Convert to Unix (LF)
